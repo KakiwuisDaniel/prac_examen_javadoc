@@ -2,6 +2,7 @@ package calculadora;
 
 import java.util.ArrayList;
 import java.util.Scanner;
+//comentarios javadoc
 
 /**
  * Clase que representa una calculadora básica con historial de operaciones.
